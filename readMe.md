@@ -1,4 +1,34 @@
-uild tools or servers are required. Just open the file directly in any modern browser.
+🃏 BlackJack Game
+A simple and interactive web-based BlackJack game built using HTML, CSS, and JavaScript. This project is perfect for beginners learning DOM manipulation and basic game logic.
+
+📸 Demo
+
+Note: Add a screenshot of your game here for better visual presentation.
+
+🎮 Features
+🎴 Draws two random cards and starts the game.
+
+💬 Displays sum and card values dynamically.
+
+😎 Detects a BlackJack (sum = 21) and ends the game.
+
+😢 Detects bust (sum > 21) and ends the game.
+
+🙂 Allows drawing more cards if within game limits.
+
+👤 Displays player name and current bet.
+
+🚀 Getting Started
+To run the project locally:
+
+1. Clone the repository
+bash
+Copy
+Edit
+git clone https://github.com/your-username/blackjack-game.git
+cd blackjack-game
+2. Open index.html in your browser
+No build tools or servers are required. Just open the file directly in any modern browser.
 
 📁 Project Structure
 bash
